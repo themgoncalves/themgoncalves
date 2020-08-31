@@ -1,4 +1,4 @@
-![themgoncalves cover](https://github.com/themgoncalves/themgoncalves/blob/master/resources/thegoncalves.png?raw=true)
+![themgoncalves cover](https://github.com/themgoncalves/themgoncalves/blob/master/resources/thegoncalves-cover.png?raw=true)
 
 ### My GitHub contributions as a Game of Life
 
