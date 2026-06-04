@@ -13,5 +13,5 @@ I care about software that is simple to use, hard to misuse, easy to evolve, and
 </p>
 
 <p>
-Founder of <a href="https://overctrl.com">Overctrl</a> · Writing at <a href="https://blog.overctrl.com/">Overctrl Blog</a>
+Building <a href="https://github.com/the-cookbook">The Cookbook</a> · Founder of <a href="https://overctrl.com">OverCtrl</a> · Writing at <a href="https://blog.overctrl.com/">OverCtrl Blog</a>
 </p>
